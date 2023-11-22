@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: ba177aa3a0963a9e582b97d64d36f85e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Next Bravo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 52ff0c460961b85c9b4a8ad91386ac0e, type: 3}
+  - {fileID: 12800000, guid: 0ae9f00ea66f20a498db2c676957aee5, type: 3}
+  - {fileID: 12800000, guid: bd2bc127560ccbdf48e8e2511f6ec6d8, type: 3}
+  - {fileID: 12800000, guid: 388861c722f1319398993b4cdb82a5ca, type: 3}
+  - {fileID: 12800000, guid: ada90938ea3223e1db3c566c0e0bd557, type: 3}
+  - {fileID: 12800000, guid: f2d66534d3026d263a08b585cd2486ac, type: 3}
+  - {fileID: 12800000, guid: 57a1c82c8e5106f98bbdb2cfe674061f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 1
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

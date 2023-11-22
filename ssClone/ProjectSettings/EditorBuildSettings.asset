@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: b027e05877dad8ba18dc10234cbd185a
+  - enabled: 1
+    path: Assets/Scenes/Dificultad.unity
+    guid: f5c1022811d6b67fd919356ff794b30d
+  - enabled: 1
+    path: Assets/Scenes/Juego.unity
+    guid: b68a84ef1c87d788ba69c0165e575af9
+  - enabled: 1
+    path: Assets/Scenes/Derrota.unity
+    guid: 24bee98a12ef08cfb9e142e2d7c3ab89
+  m_configObjects: {}

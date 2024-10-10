@@ -83,8 +83,8 @@ while cap.isOpened():
             promedio_pie_derecha_x_rest = promedio_pie_derecha_x * 0.08
             promedio_pie_izquierda_x_rest = promedio_pie_izquierda_x * 0.08
             promedio_nariz_y_rest = promedio_nariz_y * 0.4
-            promedio_nariz_y_rest2 = promedio_nariz_y * 0.2
-            promedio_mano_derecha_y_rest = promedio_mano_derecha_y * 0.6
+            promedio_nariz_y_rest2 = promedio_nariz_y * 0.1
+            promedio_mano_derecha_y_rest = promedio_mano_derecha_y * 0.3
             
             #Boton
             promedio_mano_derecha_x_rest = promedio_mano_derecha_x * 0.1
